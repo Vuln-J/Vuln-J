@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vuln-J
+- 👋 Hi, I’m @Vuln-J, french student
 - 👀 I’m interested in cybersecurity, developpement
 - 🌱 I’m currently learning Rust and Assembly
 - 💞️ I’m looking to collaborate with Youness and M. Torrens
